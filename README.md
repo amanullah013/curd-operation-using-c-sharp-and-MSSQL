@@ -1,12 +1,12 @@
-CRUD-operations-using-C-Sharp-and-MSSQL-Server-database
+### CRUD-operations-using-C-Sharp-and-MSSQL-Server-database
 Desktop CRUD App Written In C#(.NET Framework)
 
-Project Overview
--This project demonstrates how to implement CRUD (Create, Read, Update, Delete) operations using C# and SQL Server within a Windows orms Application. It provides a user-friendly interface for managing student records.
+### Project Overview
+This project demonstrates how to implement CRUD (Create, Read, Update, Delete) operations using C# and SQL Server within a Windows orms Application. It provides a user-friendly interface for managing student records.
 
-
-
-
+### Screenshots
+Below is a screenshot of the application interface showing the CRUD operation
+![IMG_7949](https://github.com/user-attachments/assets/2d89598e-4bee-4ae7-8134-79f418c86b80)
 
 
 ### Bulit With
@@ -59,5 +59,5 @@ select * from CURDForm where id = @id
     - Data Grid View for displaying and managing data
 
 
-## 🛠 Skills
+## Skills
 C#, .NET, SQL
